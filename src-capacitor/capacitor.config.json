@@ -1,0 +1,9 @@
+{
+  "appId": "com.calydon.magicburgertree",
+  "appName": "Magic Burger Tree",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https",
+    "url": "http://172.16.11.245:9500"
+  }
+}

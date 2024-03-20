@@ -1,0 +1,39 @@
+// app global css in SCSS form
+* {
+  // font-family: "Paytone One", sans-serif !important;
+}
+
+// Main Layout
+.header-item {
+  // background-color: $secondary;
+  // border: 2px solid $positive;
+  border-radius: 20px;
+  padding: 6px 12px;
+  font-size: large;
+  font-weight: bold;
+  // box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.308);
+}
+
+// Animations
+.anim-shake {
+  animation-name: shake;
+  animation-duration: 0.2s;
+  animation-iteration-count: 1;
+}
+@keyframes shake {
+  0% {
+    rotate: 0deg;
+  }
+  25% {
+    rotate: 5deg;
+  }
+  50% {
+    rotate: 0deg;
+  }
+  75% {
+    rotate: -5deg;
+  }
+  100% {
+    rotate: 0deg;
+  }
+}

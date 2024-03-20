@@ -1,0 +1,149 @@
+{
+  "treeAuto": [
+    {
+      "id": 0,
+      "label": "Harvester",
+      "caption": "Increases BPS +1",
+      "price": 100,
+      "bps": 1,
+      "level": 0
+    },
+    {
+      "id": 1,
+      "label": "Tree Shaker",
+      "caption": "Increases BPS +10",
+      "price": 1000,
+      "bps": 10,
+      "level": 0
+    },
+    {
+      "id": 2,
+      "label": "Jackhammer",
+      "caption": "Increases BPS +100",
+      "price": 10000,
+      "bps": 100,
+      "level": 0
+    },
+    {
+      "id": 3,
+      "label": "Earthquake Machine",
+      "caption": "Increases BPS +1000",
+      "price": 100000,
+      "bps": 1000,
+      "level": 0
+    }
+  ],
+
+  "shopAuto": [
+    {
+      "id": 0,
+      "label": "Burger Stand",
+      "caption": "Increases SPS +1",
+      "price": 100,
+      "bps": 1,
+      "level": 0
+    },
+    {
+      "id": 1,
+      "label": "Drive Through",
+      "caption": "Increases SPS +10",
+      "price": 1000,
+      "bps": 10,
+      "level": 0
+    },
+    {
+      "id": 2,
+      "label": "Dine In Restaurant",
+      "caption": "Increases SPS +100",
+      "price": 10000,
+      "bps": 100,
+      "level": 0
+    },
+    {
+      "id": 3,
+      "label": "Gourmet Restaurant",
+      "caption": "Increases SPS +1000",
+      "price": 100000,
+      "bps": 1000,
+      "level": 0
+    }
+  ],
+
+  "tree": [
+    {
+      "id": 0,
+      "label": "Buy Net",
+      "caption": "Increase Burgers Collected Ever Click +1",
+      "price": 5000,
+      "purchased": false,
+      "variable": "treeBurgersPerClick",
+      "amount": 1
+    },
+    {
+      "id": 1,
+      "label": "Gold Infused Seeds",
+      "caption": "Increases Golden Burger Chance +1%",
+      "price": 50000,
+      "purchased": false,
+      "variable": "goldenBurgerChance",
+      "amount": 1
+    },
+    {
+      "id": 2,
+      "label": "Buy Another Net",
+      "caption": "Increase Burgers Collected Ever Click +1",
+      "price": 100000,
+      "purchased": false,
+      "variable": "treeBurgersPerClick",
+      "amount": 1
+    },
+    {
+      "id": 3,
+      "label": "Invest in Gold GMO",
+      "caption": "Increases Golden Burger Chance +1%",
+      "price": 500000,
+      "purchased": false,
+      "variable": "goldenBurgerChance",
+      "amount": 1
+    }
+  ],
+
+  "shop": [
+    {
+      "id": 0,
+      "label": "Fancy Sign",
+      "caption": "Better style = better profit. +$1 Burger cost",
+      "price": 50000,
+      "purchased": false,
+      "variable": "shopBurgerPrice",
+      "amount": 1
+    },
+    {
+      "id": 1,
+      "label": "Double Burger Bargain Sign",
+      "caption": "New must buy two policy +1 Burgers Per Sale",
+      "price": 100000,
+      "purchased": false,
+      "variable": "shopBurgersPerClick",
+      "amount": 1
+    },
+    {
+      "id": 2,
+      "label": "Very Fancy Sign",
+      "caption": "Everyone will gasp in awe +$1 Burger cost",
+      "price": 500000,
+      "purchased": false,
+      "variable": "shopBurgerPrice",
+      "amount": 1
+    },
+    {
+      "id": 3,
+      "label": "Just Buy 3 Already Sign",
+      "caption": "Read the sign. +1 Burgers Per Sale",
+      "price": 1000000,
+      "purchased": false,
+      "variable": "shopBurgersPerClick",
+      "amount": 1
+    }
+  ]
+}
