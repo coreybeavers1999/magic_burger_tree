@@ -105,6 +105,15 @@
       "purchased": false,
       "variable": "goldenBurgerChance",
       "amount": 1
+    },
+    {
+      "id": 4,
+      "label": "Johnny poo poo poo poo pants",
+      "caption": "4xs the poo",
+      "price": 500000,
+      "purchased": false,
+      "variable": "goldenBurgerChance",
+      "amount": 1
     }
   ],
 
