@@ -105,6 +105,15 @@
       "purchased": false,
       "variable": "goldenBurgerChance",
       "amount": 1
+    },
+    {
+      "id": 4,
+      "label": "Johnny Poopoo Pants",
+      "caption": "Make poopy",
+      "price": 500000,
+      "purchased": false,
+      "variable": "goldenBurgerChance",
+      "amount": 1
     }
   ],
 
